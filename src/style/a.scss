@@ -1,0 +1,11 @@
+$bg : yellow;
+
+.box {
+    background-color: $bg;
+    display: flex;
+    font-size: 18px;
+    background: url('../assets/img/ss.jpg') no-repeat 100% 100%;
+    width:200px;
+    height:200px;
+
+}
